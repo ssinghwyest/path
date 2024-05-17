@@ -22,7 +22,7 @@
 'use strict';
 
 
-var isWindows = process.platform === 'win32';
+var isWindows = false;
 var util = require('util');
 
 
